@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a3ed47b-adc4-4344-a9fb-b4564eaa4dfd" name="qst_xuanke" url="http://qst1.linvi.icu">
+        <fileTransfer host="106.15.196.88" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="255d22b0-1603-45d5-a1ef-0f85661b7cd9" name="tmp_ecs_tomcat" url="http://47.102.218.219:8080/">
+        <fileTransfer host="47.102.218.219" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
